@@ -1,0 +1,157 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+body{
+	margin:0px;
+	padding:0px;
+	font-family:default;
+	background-image:url(pexels-pixabay-208541.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+}
+.add-box{
+	width:280px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	color:white;
+    background:rgba(0,0,0,0.9);
+	border-radius:20px;
+	margin:20px;
+	padding:20px;
+	
+	
+}
+.add-box h2{
+	float:left;
+	font-size:40px;
+	border-bottom:5px solid #438000;
+	margin-bottom:50px;
+	padding:0px 0;
+	
+	
+    
+
+    
+
+	
+}
+
+
+
+.textbox{
+	width:100%;
+	overflow:hidden;
+	font-size:20px;
+	padding:8px 0;
+	margin:0px 0;
+	border-bottom:1px solid #438000;
+
+}
+.textbox2{
+	width:100%;
+	overflow:hidden;
+	font-size:18px;
+	padding:8px 0;
+	margin:0px 0;
+	border-bottom:1px solid #438000;
+    
+}
+
+.textbox3{
+	width:80%;
+	overflow:hidden;
+	font-size:18px;
+	padding:8px 0;
+	margin:0px 0;
+	border-bottom:1px solid #438000;
+
+}
+
+#nb{
+	
+	border:none;
+	color:rgb(153, 153, 153);
+	background-color:black;
+	
+}
+
+.textbox2 i{
+	width:30px;
+	float:left;
+	text-align:center;
+	padding:8px 0;
+	margin:0px 0;
+	
+	
+	
+}
+
+.textbox i{
+	width:30px;
+	float:left;
+	text-align:center;
+	
+	
+	
+	
+}
+.textbox input{
+	border:none;
+	outline:none;
+	background:none;
+	color:white;
+	font-size:18px;
+	width:80%;
+	float:left;
+	margin:0 10px;
+	
+	
+	
+	
+}#nb2{
+	
+	border:none;
+	color:rgb(153, 153, 153);
+	background-color:black;
+	
+}.textbox4{
+	width:100%;
+	overflow:hidden;
+	font-size:20px;
+	padding:8px 0;
+	margin:0px 0;
+	border-bottom:1px solid #438000;
+
+}
+.textbox5{
+	width:80%;
+	overflow:hidden;
+	font-size:17px;
+	padding:8px 0;
+	margin:0px 0;
+	border-bottom:1px solid #438000;
+
+}	
+.btn{
+	width:50%;
+	background:#438000;
+	border:2px solid #438000;
+	color:white;
+	padding:5px;
+	font-size:18px;
+	cursor:pointer;
+	margin:12px 0;
+	font-family:default;
+	border-radius:100px;
+	
+	
+}
+#select{
+	width:100%;
+	height:40px;
+	background:none;
+color:rgba(153,153,153);
+border:none;
+}
+
+	

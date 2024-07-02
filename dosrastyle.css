@@ -1,0 +1,46 @@
+body{
+background-image:url(pexels-hasan-albari-1229861.jpg);
+background-attachment:fixed;
+background-size:cover;
+
+}
+.p1{
+
+	font-size:46.5px;
+	top:42%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	position:absolute;
+	color:white;
+	
+}
+.img{
+	width:280px;
+	top:0%;
+	left:36.5%;
+	position:absolute;
+	
+}
+
+#button{
+	top:90%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	position:absolute;
+	width:15%;
+	height:55px;
+	border-radius:20px;
+	border:none;
+	font-size:20px;
+	background:green;
+	color:white;
+	font-family:default;
+	cursor:pointer;
+	
+}
+.arrow{
+	width:200px;
+	top:58%;
+	left:40.5%;
+	position:absolute;
+}
